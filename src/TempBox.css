@@ -1,0 +1,9 @@
+.temp{
+    border-radius: 10px;
+    width: 345px;
+}
+.outer{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
