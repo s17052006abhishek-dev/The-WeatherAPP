@@ -41,6 +41,9 @@ npm run dev
 ```
 
 ## Live Demo
+```
+the-weather-app-blond.vercel.app
+```
 
 
 
